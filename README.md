@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:karlovskaya.marina@gmail.com" target="_blank">
+  <a href = "mailto:karlovskaya.marina@gmail.com" target="_newtab">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/marinakarlovska" target="_blank">
