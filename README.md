@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Maryna+Karlovska!;" />
 </h1>
 
-<h2 align="center">A beginner Python Developer based in London </h3>
+<h2 align="center">A Junior Software Developer based in London </h3>
 Mastering Python at HyperionDev, I'm eager to translate my success-driven mindset & and analytical skills into user-centric code. Seeking a Junior Developer role to contribute with a fresh perspective & a thirst to learn.
 
 🌍  I'm based in London
