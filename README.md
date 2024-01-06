@@ -6,11 +6,12 @@
 
 <h2 align="center">A Junior Software Developer based in London </h3>
 Mastering Python at HyperionDev, I'm eager to translate my success-driven mindset & and analytical skills into user-centric code. Seeking a Junior Developer role to contribute with a fresh perspective & a thirst to learn.
-
-🌍  I'm based in London
+<p>
+🌍  I'm from Ukraine, currently based in London
 🖥️  See my portfolio at [MyPortfolio](http://github.com/kamarina?tab=repositories)
 ✉️  You can contact me at [karlovskaya.marina@gmail.com](mailto:karlovskaya.marina@gmail.com)
 🤝  I'm open to collaborating on exciting projects
+</p>
 
 ### Get in touch:
 
