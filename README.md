@@ -5,13 +5,13 @@
 
 <h2 align="center">A Junior Software Developer based in London </h3>
 Mastering Python at HyperionDev, I'm eager to translate my success-driven mindset & and analytical skills into user-centric code. Seeking a Junior Developer role to contribute with a fresh perspective & a thirst to learn.
-<p align="center">
 * 🖥️  See my portfolio at [MyPortfolio](http://github.com/kamarina?tab=repositories)
 * ✉️  You can contact me at [karlovskaya.marina@gmail.com](mailto:karlovskaya.marina@gmail.com)
 * 🤝  I'm open to collaborating on exciting projects
-</p>
+<div align="right">    
+
 ### Get in touch:
-<p align="left"> <a href="https://www.github.com/kamarina" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/marinakarlovska" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<a href="https://www.github.com/kamarina" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/marinakarlovska" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -28,5 +28,7 @@ Mastering Python at HyperionDev, I'm eager to translate my success-driven mindse
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
 </div>
-<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/> <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=kamarina&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<p float="left" align="center">
+<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
+<img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=kamarina&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /></p>
 
